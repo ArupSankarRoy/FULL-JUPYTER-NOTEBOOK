@@ -1,0 +1,4 @@
+IndianEconomicCondition,GlobalMarketPerformance,RBISupportMarket,BuyerSentiment,NoOfStocksDown
+Recession,Good,High,Weak,0.39
+Recession,Good,High,Strong,0.33
+Recession,Good,High,Strong,0.42

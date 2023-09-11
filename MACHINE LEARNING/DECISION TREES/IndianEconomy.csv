@@ -1,0 +1,11 @@
+IndianEconomicCondition,GlobalMarketPerformance,RBISupportMarket,BuyerSentiment,NoOfStocksDown
+Boom,Good,High,Weak,0.31
+Boom,Good,High,Strong,0.38
+Uncertain,Good,High,Weak,0.58
+Recession,Bad,High,Weak,0.56
+Recession,Ugly,Normal,Weak,0.65
+Recession,Ugly,Normal,Strong,0.29
+Uncertain,Ugly,High,Strong,0.54
+Boom,Bad,Normal,Weak,0.44
+Boom,Ugly,Normal,Weak,0.48
+Recession,Bad,Normal,Weak,0.58
